@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+log_level: "info"  # 로그 레벨을 info로 설정
 
 # Exclude from processing.
 # The following items will not be processed, by default.
